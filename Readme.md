@@ -1,4 +1,4 @@
-# mDNS Manager
+# mDNS Manager by Krishna
 
 A lightweight terminal-based manager for publishing `.local` hostnames on a local network using **Avahi**.
 
