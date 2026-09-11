@@ -1,0 +1,8 @@
+# mDNS host aliases
+# Format:
+# IP_ADDRESS HOSTNAME.local
+
+192.168.0.245 homepage.local
+192.168.0.245 dockhand.local
+192.168.0.245 immich.local
+192.168.0.245 glance.local
